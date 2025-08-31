@@ -1,0 +1,7 @@
+{
+  "name": "Foursquare Vibe Check",
+  "description": "An application to perform a 'vibe check' for a given location. It gets your current location and generates a vibe score.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
